@@ -20,7 +20,7 @@ The objective of this TryHackMe journal is to document my learning journey in cy
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Detailed Notes for each room
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%201%3A%20Linux%20Fundamentals%201">Linux Fundementals 1</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%201_%20Linux%20Fundamentals%201.txt">Linux Fundementals 1</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%202%3A%20Linux%20Fundamentals%202">Linux Fundementals 2</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%203%3A%20Linux%20Fundamentals%203">Linux Fundementals 3</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%204%3A%20Intro%20to%20Logs">Intro to Logs</a>
@@ -37,4 +37,5 @@ The objective of this TryHackMe journal is to document my learning journey in cy
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2015%3A%20Incident%20Handling">Incident Handling</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2016%3A%20Splunk%202">Splunk 2</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2017%3A%20Splunk%203">Splunk 3</a>
+
   
