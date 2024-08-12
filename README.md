@@ -20,16 +20,16 @@ The objective of this TryHackMe journal is to document my learning journey in cy
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Detailed Notes for each room
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%201_%20Linux%20Fundamentals%201.txt">Linux Fundementals 1</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%202%3A%20Linux%20Fundamentals%202">Linux Fundementals 2</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%203%3A%20Linux%20Fundamentals%203">Linux Fundementals 3</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%204%3A%20Intro%20to%20Logs">Intro to Logs</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%205%3A%20Linux%20Strength%20Training">Linux Strength Training</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%206%3A%20Wireshark%20Basics">Wireshark Basics</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%207%3A%20Wireshark%20101">Wireshark 101</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%208%3A%20Windows%20Fundamentals%201">Windows Fundementals 1</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%209%3A%20Windows%20Fundamentals%202">Windows Fundementals 2</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2010%3A%20Windows%20Fundamentals%203">Windows Fundementals 3</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%201_%20Linux%20Fundamentals%201">Linux Fundementals 1</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%202_%20Linux%20Fundamentals%202">Linux Fundementals 2</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%203_%20Linux%20Fundamentals%203">Linux Fundementals 3</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%204_%20Intro%20to%20Logs">Intro to Logs</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%205_%20Linux%20Strength%20Training.txt">Linux Strength Training</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%206_%20Wireshark%20Basics">Wireshark Basics</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%207_%20Wireshark%20101">Wireshark 101</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%208_%20Windows%20Fundamentals%201">Windows Fundementals 1</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%209_%20Windows%20Fundamentals%202">Windows Fundementals 2</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2010_%20Windows%20Fundamentals%203">Windows Fundementals 3</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2011%3A%20Windows%20Forensics%201">Windows Forensics 1</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2012%3A%20Windows%20Forensics%202">Windows Forensics 2</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2013%3A%20Intro%20to%20Log%20Analysis">Intro to Log Analysis</a>
