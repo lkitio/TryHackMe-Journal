@@ -30,12 +30,12 @@ The objective of this TryHackMe journal is to document my learning journey in cy
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%208_%20Windows%20Fundamentals%201.txt">Windows Fundementals 1</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%209_%20Windows%20Fundamentals%202.txt">Windows Fundementals 2</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2010_%20Windows%20Fundamentals%203.txt">Windows Fundementals 3</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2011%3A%20Windows%20Forensics%201.txt">Windows Forensics 1</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2012%3A%20Windows%20Forensics%202.txt">Windows Forensics 2</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2013%3A%20Intro%20to%20Log%20Analysis.txt">Intro to Log Analysis</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2014%3A%20Splunk%20Basics.txt">Splunk basiscs</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2015%3A%20Incident%20Handling.txt">Incident Handling</a>
-- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2016%3A%20Splunk%202.txt">Splunk 2</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2011_%20Windows%20Forensics%201.txt">Windows Forensics 1</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2012_%20Windows%20Forensics%202.txt">Windows Forensics 2</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2013_%20Intro%20to%20Log%20Analysis.txt">Intro to Log Analysis</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2014_%20Splunk%20Basics.txt">Splunk basiscs</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2015_%20Incident%20Handling.txt">Incident Handling</a>
+- <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2016_%20Splunk%202.txt">Splunk 2</a>
 - <a href="https://github.com/lkitio/TryHackMe-Journal/blob/main/Entry%2017%3A%20Splunk%203.txt">Splunk 3</a>
 
   
